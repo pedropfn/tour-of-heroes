@@ -1,4 +1,4 @@
-# TuorOfHeroes
+# Tour Of Heroes
 
 [Tutorial Referemce](https://angular.io/tutorial)
 
